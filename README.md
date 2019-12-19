@@ -1,2 +1,2 @@
 # KAIM
-金沢人工知能勉強会 発表資料
+KAIMの発表資料 / Kanazawa Artificial Intelligence Meetup(KAIM) Materials
